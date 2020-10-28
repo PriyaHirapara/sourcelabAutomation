@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/manorama_sauceLabsAutomation-master.iml" filepath="$PROJECT_DIR$/.idea/manorama_sauceLabsAutomation-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sauceLabsAutomation-master/sauceLabsAutomation.iml" filepath="$PROJECT_DIR$/sauceLabsAutomation-master/sauceLabsAutomation.iml" />
+    </modules>
+  </component>
+</project>
